@@ -7,7 +7,7 @@ import {injectGlobal} from 'styled-components';
 
 injectGlobal`
     body{
-        @import url('https://fonts.googleapis.com/css?family=Amatic+SC|Anton');
+        @import url('https://fonts.googleapis.com/css?family=Amatic+SC|Anton|Rock+Salt|Cinzel');
         margin: 0;
     }
 `
